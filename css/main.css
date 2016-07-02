@@ -39,8 +39,8 @@ header ul li{
 }
 .welcome{
 	background-color: #6c2a6a;
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 	color:white;
 	font-weight: 100;
 }
@@ -59,21 +59,24 @@ section .mast{
 .main{
 	text-align: center;
 	background-color: white;
-	padding-top: 120px;
+	padding-top: 100px;
 
 }
 .main div{
-	width: 25%;
+	width: 20%;
 	text-align: center;
 	background-color: white;
-	padding-bottom: 120px;
-	float: left;
+	padding:70px 32px;
+	margin: 0 auto;
+	float:left;
 }
 footer{
 	text-align: center;
 	background-color: black;
+	clear: both;
 }
 footer h1{
+	display: block;
 	color: white;
 }
 footer h6{
